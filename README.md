@@ -1,6 +1,6 @@
 # Hi, I'm Enrique 👋🏽 👨🏽‍💻
 
-I'm **Junior Software Engineer** and **Student data analyst** who is passionate about web technologies I am also a fan of the world of data, I am currently studying data science and I would like to become one of the best analysts and someday be a great teacher to be able to transmit everything I have learned.
+I am a **Junior Software Engineer** and **Student data analyst** passionate about web technologies, data and video game strategies, I would like later to be a data scientist to be able to prevent in my current case the decrease in school failure in the medium term, and in the long term an analysis of improvements for cities for needs or urban planning that can coexist with nature.
 
 ## Get in touch around the web 🌍
 
