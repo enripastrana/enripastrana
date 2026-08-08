@@ -1,10 +1,17 @@
 [🇺🇸 Read in English](README.en.md)
 
+<img src="img/github-header.jpg" width="120" align="right" alt="Josue Pastrana" />
+
 ### Hola, soy Josue Pastrana 👋
 
 **Analista de Datos & Desarrollador**
 
-📍 Quintana Roo, México · 🔗 [josuepastrana.com](https://josuepastrana.com) · ✉️ [helo@josuepastrana.com](mailto:helo@josuepastrana.com) · 💼 [LinkedIn](https://www.linkedin.com/in/enripastrana/) · 📷 [Instagram](https://www.instagram.com/josue_enrique/)
+📍 Quintana Roo, México
+
+[![Website](https://img.shields.io/badge/Website-josuepastrana.com-14b8a6?style=flat-square&logo=googlechrome&logoColor=white)](https://josuepastrana.com)
+[![Email](https://img.shields.io/badge/Email-helo%40josuepastrana.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:helo@josuepastrana.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enripastrana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enripastrana/)
+[![Instagram](https://img.shields.io/badge/Instagram-josue__enrique-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/josue_enrique/)
 
 ---
 
@@ -16,10 +23,20 @@
 
 ---
 
+### 🔧 Cómo trabajo
+
+1. **Detecto** el proceso manual o repetitivo que más tiempo consume.
+2. **Automatizo** ese proceso con una herramienta a la medida.
+3. **Mido** el ahorro real en tiempo y costo.
+
+---
+
 ### 💼 Rol actual
 
-**Analista de Datos** · Gobierno (colegio de gestión pública) — *actual*
-- Diseño y mantengo sistemas internos usados a diario por la institución: geolocalización de planteles, asignación de grupos y turnos, proyección de matrícula y estadística escolar.
+**Analista de Datos** · Gobierno (colegio de gestión pública) — 13 años en el puesto
+
+- Diseño y mantengo sistemas usados en **9 planteles**: geolocalización, asignación de grupos y turnos, proyección de matrícula y estadística escolar.
+- El sistema de asignación de alumnos ahorra hasta **20 horas al año**; en conjunto, el resto de los sistemas ahorra otras **20 horas al año**.
 
 **Desarrollador Freelance** · Independiente — *tiempos libres*
 - Desarrollo de aplicaciones web y de escritorio a la medida para clientes externos.

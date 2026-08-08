@@ -1,10 +1,17 @@
 [🇲🇽 Leer en Español](README.md)
 
+<img src="img/github-header.jpg" width="120" align="right" alt="Josue Pastrana" />
+
 ### Hi, I'm Josue Pastrana 👋
 
 **Data Analyst & Software Developer**
 
-📍 Quintana Roo, Mexico · 🔗 [josuepastrana.com](https://josuepastrana.com) · ✉️ [helo@josuepastrana.com](mailto:helo@josuepastrana.com) · 💼 [LinkedIn](https://www.linkedin.com/in/enripastrana/) · 📷 [Instagram](https://www.instagram.com/josue_enrique/)
+📍 Quintana Roo, Mexico
+
+[![Website](https://img.shields.io/badge/Website-josuepastrana.com-14b8a6?style=flat-square&logo=googlechrome&logoColor=white)](https://josuepastrana.com)
+[![Email](https://img.shields.io/badge/Email-helo%40josuepastrana.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:helo@josuepastrana.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enripastrana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enripastrana/)
+[![Instagram](https://img.shields.io/badge/Instagram-josue__enrique-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/josue_enrique/)
 
 ---
 
@@ -16,10 +23,20 @@
 
 ---
 
+### 🔧 How I work
+
+1. **Spot** the manual or repetitive process that costs the most time.
+2. **Automate** it with a purpose-built tool.
+3. **Measure** the real savings in time and cost.
+
+---
+
 ### 💼 Current role
 
-**Data Analyst** · Government (public school system) — *current*
-- I design and maintain internal systems used daily by the institution: school geolocation, group/shift assignment, enrollment projection and school statistics.
+**Data Analyst** · Government (public school system) — 13 years in the role
+
+- I design and maintain systems used across **9 school sites**: geolocation, group/shift assignment, enrollment projection and school statistics.
+- The student assignment system saves up to **20 hours a year**; combined, the rest of the systems save another **20 hours a year**.
 
 **Freelance Developer** · Independent — *spare time*
 - Custom web and desktop application development for external clients.
