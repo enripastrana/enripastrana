@@ -1,10 +1,40 @@
-# Hi, I'm Enrique 👋🏽 👨🏽‍💻
+### Hola, soy Josue Pastrana 👋
 
-I am a **Junior Software Engineer** and **Student data analyst** passionate about web technologies, data and video game strategies, I would like later to be a data scientist to be able to prevent in my current case the decrease in school failure in the medium term, and in the long term an analysis of improvements for cities for needs or urban planning that can coexist with nature.
+**Analista de Datos & Desarrollador**
 
-## Get in touch around the web 🌍
+📍 Quintana Roo, México · 🔗 [josuepastrana.com](https://josuepastrana.com) · ✉️ [helo@josuepastrana.com](mailto:helo@josuepastrana.com) · 💼 [LinkedIn](https://www.linkedin.com/in/enripastrana/) · 📷 [Instagram](https://www.instagram.com/josue_enrique/)
 
-- Sharing tips and setup pics on [Instagram](https://instagram.com/josue_enrique) 📸
-- Find out what I do on my facebook [Facebook](https://www.facebook.com/enripastrana) 🤗
-- Sharing updates on [Twitter](https://twitter.com/enripastrana) 🐦
+---
 
+### 💼 A qué me dedico
+
+Soy **empleado de gobierno**, donde trabajo como **analista de datos** y desarrollo herramientas internas (web y de escritorio) para resolver necesidades operativas del colegio donde laboro. En mis tiempos libres trabajo como **freelancer**, desarrollando aplicaciones a la medida.
+
+---
+
+### 🚀 Proyectos
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [GeoSecundarias](https://github.com/enripastrana/dat-secundarias-cat) | Sistema de geolocalización y catálogo de secundarias | `Python` |
+| Asignación de grupos y turnos | Sistema para la asignación de grupos y turnos escolares | `Python` |
+| Proyección de matrícula | Sistema de proyección de matrícula escolar | `Python` |
+| Sistema estadístico | Sistema de estadísticas escolares del colegio | `Python` |
+
+> Los proyectos sin link son herramientas internas de uso institucional.
+
+---
+
+### 🛠️ Stack
+
+`Python` `PostgreSQL` `SQLite` `FastAPI` `Django` *(próximamente)*
+
+---
+
+### 🌐 Idiomas
+
+Español (nativo) · Inglés (básico)
+
+---
+
+📫 ¿Quieres platicar de un proyecto? Escríbeme a [helo@josuepastrana.com](mailto:helo@josuepastrana.com) o por [LinkedIn](https://www.linkedin.com/in/enripastrana/).
