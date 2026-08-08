@@ -1,3 +1,5 @@
+[🇺🇸 Read in English](README.en.md)
+
 ### Hola, soy Josue Pastrana 👋
 
 **Analista de Datos & Desarrollador**
@@ -6,13 +8,25 @@
 
 ---
 
-### 💼 A qué me dedico
+### 🧭 A qué me dedico
 
-Soy **empleado de gobierno**, donde trabajo como **analista de datos** y desarrollo herramientas internas (web y de escritorio) para resolver necesidades operativas del colegio donde laboro. En mis tiempos libres trabajo como **freelancer**, desarrollando aplicaciones a la medida.
+- Automatizo procesos manuales y repetitivos de empresas y negocios que consumen mucho tiempo, reduciendo costos y tiempo de producción.
+- Analizo datos escolares (matrícula, grupos, turnos, estadística) para ayudar a tomar mejores decisiones.
+- Como freelancer, aplico ese mismo enfoque —automatización + datos— a proyectos externos en mis tiempos libres.
 
 ---
 
-### 🚀 Proyectos
+### 💼 Rol actual
+
+**Analista de Datos** · Gobierno (colegio de gestión pública) — *actual*
+- Diseño y mantengo sistemas internos usados a diario por la institución: geolocalización de planteles, asignación de grupos y turnos, proyección de matrícula y estadística escolar.
+
+**Desarrollador Freelance** · Independiente — *tiempos libres*
+- Desarrollo de aplicaciones web y de escritorio a la medida para clientes externos.
+
+---
+
+### 🚀 En qué estoy trabajando
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -25,9 +39,29 @@ Soy **empleado de gobierno**, donde trabajo como **analista de datos** y desarro
 
 ---
 
+### 📲 Contenido
+
+Comparto fragmentos de mi día a día y proyectos en [Instagram](https://www.instagram.com/josue_enrique/) 📸
+
+---
+
+### 📊 GitHub Stats
+
+![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=enripastrana&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enripastrana&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=enripastrana&hide_border=true)
+
+---
+
 ### 🛠️ Stack
 
-`Python` `PostgreSQL` `SQLite` `FastAPI` `Django` *(próximamente)*
+**Lenguajes:** `Python`
+**Backend / APIs:** `FastAPI` `Django` *(próximamente)*
+**Bases de datos:** `PostgreSQL` `SQLite`
+
+---
+
+> Creo en transformar datos dispersos en herramientas simples que resuelven problemas reales — y en seguir aprendiendo para construir mejor software cada día.
 
 ---
 
@@ -37,4 +71,4 @@ Español (nativo) · Inglés (básico)
 
 ---
 
-📫 ¿Quieres platicar de un proyecto? Escríbeme a [helo@josuepastrana.com](mailto:helo@josuepastrana.com) o por [LinkedIn](https://www.linkedin.com/in/enripastrana/).
+📫 ¿Quieres platicar de un proyecto? Escríbeme a [helo@josuepastrana.com](mailto:helo@josuepastrana.com), por [LinkedIn](https://www.linkedin.com/in/enripastrana/) o visita [josuepastrana.com](https://josuepastrana.com).
